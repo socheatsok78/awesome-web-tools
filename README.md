@@ -73,4 +73,6 @@
 
 ## Utilities
 
+- [gitignore.io](https://gitignore.io/) - Create useful .gitignore files for your project.
+- [keycode.info](https://keycode.info/) - JavaScript Key Code Event Tool &amp; List.
 - [TAAG](http://patorjk.com/software/taag) - Text to ASCII Art Generator.
