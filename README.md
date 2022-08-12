@@ -14,7 +14,7 @@
 - [SSL Configuration](#ssl-configuration)
     - [Generators][ssl-configuration-generators]
     - [Services][ssl-configuration-services]
-- [Have I Been Pwned?](#have-i-been-pwned)
+- [Security](#security)
 - [The Swiss Army Knife](#the-swiss-army-knife)
 - [Utilities](#utilities)
 
@@ -64,8 +64,9 @@
 - [SSL Server Test](https://www.ssllabs.com/ssltest/index.html)
 - [SSL/TLS Capabilities of Your Browser](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
 
-## Have I Been Pwned?
+## Security
 
+- [security.txt](https://securitytxt.org/) - A proposed standard which allows websites to define security policies.
 - [Firefox Monitor](https://monitor.firefox.com/)
 - [have i been pwned?](https://haveibeenpwned.com/)
 
