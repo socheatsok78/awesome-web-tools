@@ -6,8 +6,8 @@
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com)
 
 - [Project Generator](#project-generator)
-- [Server Configuration](#)
-- [SSL Configuration](#)
+- [Server Configuration](#server-configuration)
+- [SSL Configuration](#ssl-configuration)
 
 ---
 
