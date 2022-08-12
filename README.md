@@ -19,7 +19,7 @@
 
 ## The Swiss Army Knife
 
-- [CyberChef](https://gchq.github.io/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
+- [CyberChef](https://gchq.github.io/CyberChef) - A web app for encryption, encoding, compression and data analysis.
 
 ## Project Generator
 
