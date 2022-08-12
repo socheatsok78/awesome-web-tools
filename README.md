@@ -10,6 +10,7 @@
 - [Project Generator](#project-generator)
 - [Server Configuration](#server-configuration)
 - [SSL Configuration](#ssl-configuration)
+- [Have I Been Pwned?](#have-i-been-pwned)
 - [The Swiss Army Knife](#the-swiss-army-knife)
 - [Utilities](#utilities)
 
@@ -44,6 +45,11 @@
 - [Certificate Transparency Policy Analyzer](https://sslmate.com/labs/ct_policy_analyzer/)
 - [SSL Server Test](https://www.ssllabs.com/ssltest/index.html)
 - [SSL/TLS Capabilities of Your Browser](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
+
+## Have I Been Pwned?
+
+- [Firefox Monitor](https://monitor.firefox.com/)
+- [have i been pwned?](https://haveibeenpwned.com/)
 
 ## The Swiss Army Knife
 
