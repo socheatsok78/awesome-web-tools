@@ -6,10 +6,11 @@
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com)
 
 - [General Purpose](#general-purpose)
-- [The Swiss Army Knife](#the-swiss-army-knife)
+- [Web Installer](#web-installer)
 - [Project Generator](#project-generator)
 - [Server Configuration](#server-configuration)
 - [SSL Configuration](#ssl-configuration)
+- [The Swiss Army Knife](#the-swiss-army-knife)
 - [Utilities](#utilities)
 
 ---
@@ -18,9 +19,11 @@
 
 - [explainshell.com](https://explainshell.com/) - match command-line arguments to their help text.
 
-## The Swiss Army Knife
+## Web Installer
 
-- [CyberChef](https://gchq.github.io/CyberChef) - A web app for encryption, encoding, compression and data analysis.
+> Other web installers available at [WEBINSTALLER.md](WEBINSTALLER.md).
+
+- [webinstall.dev](https://webinstall.dev/) - Effortlessly install developer tools with easy-to-remember URLs.
 
 ## Project Generator
 
@@ -35,6 +38,10 @@
 ## SSL Configuration
 
 - [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
+
+## The Swiss Army Knife
+
+- [CyberChef](https://gchq.github.io/CyberChef) - A web app for encryption, encoding, compression and data analysis.
 
 ## Utilities
 
