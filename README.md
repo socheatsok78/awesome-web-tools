@@ -39,6 +39,9 @@
 ## SSL Configuration
 
 - [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
+- [CAA Record Helper](https://sslmate.com/caa/)
+- [What's My Chain Cert?](https://whatsmychaincert.com/)
+- [Certificate Transparency Policy Analyzer](https://sslmate.com/labs/ct_policy_analyzer/)
 
 ## The Swiss Army Knife
 
