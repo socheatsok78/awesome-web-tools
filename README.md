@@ -5,7 +5,7 @@
 [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com)
 
-- [General Purpose](#general-purpose)
+- [General](#general)
 - [Web Installer](#web-installer)
 - [Delivery Service](#delivery-service)
 - [Project Generator](#project-generator)
@@ -25,7 +25,7 @@
 
 ---
 
-## General Purpose
+## General
 
 - [explainshell.com](https://explainshell.com/) - match command-line arguments to their help text.
 
