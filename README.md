@@ -10,10 +10,10 @@
 - [Delivery Service](#delivery-service)
 - [Project Generator](#project-generator)
 - [Server Configuration](#server-configuration)
-    - [Generators](#generators)
+    - [Generators](/#user-content-server-configuration-generators)
 - [SSL Configuration](#ssl-configuration)
-    - [Generators](#generators-1)
-    - [Services](#services)
+    - [Generators](/#user-content-ssl-configuration-generators)
+    - [Services](/#user-content-ssl-configuration-services)
 - [Have I Been Pwned?](#have-i-been-pwned)
 - [The Swiss Army Knife](#the-swiss-army-knife)
 - [Utilities](#utilities)
@@ -40,19 +40,19 @@
 
 ## Server Configuration
 
-### Generators
+<h4 id="server-configuration-generators">Generators</h4>
 - [Crontab.guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions.
 - [NGINXConfig](https://nginxconfig.io/) - The easiest way to configure a performant, secure, and stable NGINX server.
 - [DigitalOcean Nginx Configuration Generator](https://www.digitalocean.com/community/tools/nginx) - Also known as NGINXConfig.
 
 ## SSL Configuration
 
-### Generators
+<h4 id="ssl-configuration-generators">Generators</h4>
 - [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
 - [CAA Record Helper](https://sslmate.com/caa/)
 - [What's My Chain Cert?](https://whatsmychaincert.com/)
 
-### Services
+<h4 id="ssl-configuration-services">Services</h4>
 - [Certificate Transparency Policy Analyzer](https://sslmate.com/labs/ct_policy_analyzer/)
 - [SSL Server Test](https://www.ssllabs.com/ssltest/index.html)
 - [SSL/TLS Capabilities of Your Browser](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
