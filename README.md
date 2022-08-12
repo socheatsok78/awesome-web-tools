@@ -27,6 +27,7 @@
 
 ## Server Configuration
 
+- [Crontab.guru](https://crontab.guru/) - The quick and simple editor for cron schedule expressions.
 - [NGINXConfig](https://nginxconfig.io/) - The easiest way to configure a performant, secure, and stable NGINX server.
 - [DigitalOcean Nginx Configuration Generator](https://www.digitalocean.com/community/tools/nginx) - Also known as NGINXConfig.
 
