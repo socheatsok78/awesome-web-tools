@@ -5,11 +5,16 @@
 [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com)
 
+- [The Swiss Army Knife](#the-swiss-army-knife)
 - [Project Generator](#project-generator)
 - [Server Configuration](#server-configuration)
 - [SSL Configuration](#ssl-configuration)
 
 ---
+
+## The Swiss Army Knife
+
+- [CyberChef](https://gchq.github.io/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
 
 ## Project Generator
 
