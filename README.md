@@ -5,12 +5,17 @@
 [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com)
 
+- [General Purpose](#general-purpose)
 - [The Swiss Army Knife](#the-swiss-army-knife)
 - [Project Generator](#project-generator)
 - [Server Configuration](#server-configuration)
 - [SSL Configuration](#ssl-configuration)
 
 ---
+
+## General Purpose
+
+- [TAAG](http://patorjk.com/software/taag) - Text to ASCII Art Generator.
 
 ## The Swiss Army Knife
 
