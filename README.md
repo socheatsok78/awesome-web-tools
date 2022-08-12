@@ -58,6 +58,7 @@
 - [What's My Chain Cert?](https://whatsmychaincert.com/)
 
 #### Services
+- [crt.sh](https://crt.sh/) - Free CT Log Certificate Search Tool.
 - [Certificate Transparency Policy Analyzer](https://sslmate.com/labs/ct_policy_analyzer/)
 - [SSL Server Test](https://www.ssllabs.com/ssltest/index.html)
 - [SSL/TLS Capabilities of Your Browser](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
