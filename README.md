@@ -6,7 +6,7 @@
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com)
 
 - [General Purpose](#general-purpose)
-- Installers
+- [Installers](#installers)
   - [Web Installer](#web-installer)
   - [WEBINSTALLER.md](WEBINSTALLER.md)
 - [Services](#services)
