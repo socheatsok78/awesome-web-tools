@@ -10,12 +10,13 @@
 - [Project Generator](#project-generator)
 - [Server Configuration](#server-configuration)
 - [SSL Configuration](#ssl-configuration)
+- [Utilities](#utilities)
 
 ---
 
 ## General Purpose
 
-- [TAAG](http://patorjk.com/software/taag) - Text to ASCII Art Generator.
+- [explainshell.com](https://explainshell.com/) - match command-line arguments to their help text.
 
 ## The Swiss Army Knife
 
@@ -34,3 +35,7 @@
 ## SSL Configuration
 
 - [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
+
+## Utilities
+
+- [TAAG](http://patorjk.com/software/taag) - Text to ASCII Art Generator.
