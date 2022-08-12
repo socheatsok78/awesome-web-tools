@@ -28,6 +28,7 @@
 ## General
 
 - [explainshell.com](https://explainshell.com/) - match command-line arguments to their help text.
+- [devhints.io](https://devhints.io/) - A ridiculous collection of web development cheatsheets.
 
 ## Web Installer
 
